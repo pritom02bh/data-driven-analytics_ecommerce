@@ -8,3 +8,4 @@ mlxtend
 scipy
 prophet
 streamlit
+ipywidgets
